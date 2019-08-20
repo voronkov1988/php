@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1b0e7673-c6b3-4b0a-87d4-fb0a60e6173d" name="myhome" url="http://pma.lessons.mgtest.su/">
+        <fileTransfer host="voronkovevgeniy.mgtest.su" port="21" rootFolder="/html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

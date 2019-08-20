@@ -1,0 +1,3 @@
+INSERT INTO practice_db.expriens (id, prof, gorod, date, description) VALUES (1, 'weilding', 'Mogilev', 2010, 'Цикл с предусловием (while)');
+INSERT INTO practice_db.expriens (id, prof, gorod, date, description) VALUES (2, 'senoir', 'Minsk', 2018, 'Цикл с постусловием (do-while)');
+INSERT INTO practice_db.expriens (id, prof, gorod, date, description) VALUES (3, 'developer', 'Kiev', 2010, 'Цикл со счетчиком (for)');

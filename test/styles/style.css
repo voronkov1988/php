@@ -1,0 +1,16 @@
+body{
+    margin: 10px;
+}
+.header-form{
+    height: 70vh;
+    width: 100%;
+    background-color: #2C3035;
+}
+.logo{
+    padding-top: 3%;
+}
+.form{
+    color: white;
+}
+.comment{
+}

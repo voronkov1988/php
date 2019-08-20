@@ -1,0 +1,1 @@
+INSERT INTO practice_db.about (id, name, mail, tel, site) VALUES (1, 'Ворокнов Евгений', 'z.voronkov@mail.ru', 9574688, 'rusttshop.ru');

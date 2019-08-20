@@ -1,0 +1,1 @@
+INSERT INTO lesson8.comments (id, name, comment) VALUES (32, 'выавыа', 'вавыа');
