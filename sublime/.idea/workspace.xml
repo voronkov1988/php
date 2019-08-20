@@ -255,12 +255,13 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="38" />
     <option name="y" value="91" />
     <option name="width" value="1218" />
     <option name="height" value="585" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -353,15 +354,15 @@
       <workItem from="1556794175216" duration="12080000" />
       <workItem from="1556819876516" duration="1506000" />
       <workItem from="1556893822350" duration="1137000" />
-      <workItem from="1566316024561" duration="630000" />
+      <workItem from="1566316024561" duration="1019000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165103000" />
+    <option name="totallyTimeSpent" value="165492000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1374" height="748" extended-state="7" />
+    <frame x="-4" y="-4" width="1374" height="748" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19108762" />
